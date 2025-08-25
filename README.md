@@ -2,6 +2,8 @@
 
 This project analyzes an e-commerce dataset using SQL and Python to uncover insights on customer behavior, sales trends, product performance, and seller contributions. Queries range from basic to advanced, helping businesses improve decision-making, customer retention, and revenue growth.
 This project analyzes an E-commerce platform’s dataset to extract insights useful for business decision-making. The dataset includes information about customers, orders, products, sellers, and payments.
+Dataset Link: https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+
 The analysis is structured into three levels of SQL queries: Basic, Intermediate, and Advanced.
 
 📂 Dataset Schema (Typical Tables)

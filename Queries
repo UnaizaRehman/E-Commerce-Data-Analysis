@@ -1,0 +1,44 @@
+Analysis Goals
+🔹 Basic Queries
+
+List all unique cities where customers are located.
+
+Count the number of orders placed in 2017.
+
+Find the total sales per category.
+
+Calculate the percentage of orders paid in installments.
+
+Count the number of customers from each state.
+
+🔹 Intermediate Queries
+
+Calculate the number of orders per month in 2018.
+
+Find the average number of products per order, grouped by customer city.
+
+Calculate the percentage of revenue by each product category.
+
+Identify correlation between product price and purchase frequency.
+
+Rank sellers by total revenue generated.
+
+🔹 Advanced Queries
+
+Calculate the moving average of order values per customer.
+
+Calculate cumulative sales per month for each year.
+
+Calculate year-over-year sales growth rate.
+
+Measure customer retention rate (repeat purchases within 6 months).
+
+Identify top 3 customers by spending per year.
+
+⚙️ Tools & Technologies
+
+SQL (MySQL / PostgreSQL)
+
+Python (Pandas, Matplotlib, Seaborn) for data visualization 
+
+Power BI / Tableau for dashboards 

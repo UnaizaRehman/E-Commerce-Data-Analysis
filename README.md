@@ -22,11 +22,11 @@ sellers → seller details (ID, state, city)
 
 ⚙️ Tools & Technologies
 
-SQL (MySQL / PostgreSQL)
+MySQL 
 
 Python (Pandas, Matplotlib, Seaborn) for data visualization 
 
-Power BI / Tableau for dashboards 
+Power BI for dashboards 
 
 🚀 Key Outcomes
 
